@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "project": "Mississippi Lake Levels",
+    "last_updated": "2026-06-04",
+    "description": "Water level comparison data for major Mississippi lakes"
+  },
+  "lakes": [
+    {
+      "id": "enid",
+      "name": "Enid Lake",
+      "location": "North-central Mississippi",
+      "usgs_site_id": "32090000",
+      "normal_level_ft": 290.0,
+      "measurements": [
+        {
+          "date": "2026-06-04",
+          "level_ft": 290.45,
+          "deviation_ft": 0.45,
+          "status": "normal"
+        }
+      ]
+    },
+    {
+      "id": "grenada",
+      "name": "Grenada Lake",
+      "location": "North Mississippi",
+      "usgs_site_id": "32093500",
+      "normal_level_ft": 228.0,
+      "measurements": [
+        {
+          "date": "2026-06-04",
+          "level_ft": 227.85,
+          "deviation_ft": -0.15,
+          "status": "normal"
+        }
+      ]
+    },
+    {
+      "id": "sardis",
+      "name": "Sardis Lake",
+      "location": "North Mississippi",
+      "usgs_site_id": "32089500",
+      "normal_level_ft": 330.0,
+      "measurements": [
+        {
+          "date": "2026-06-04",
+          "level_ft": 330.12,
+          "deviation_ft": 0.12,
+          "status": "normal"
+        }
+      ]
+    },
+    {
+      "id": "pickwick",
+      "name": "Pickwick Lake",
+      "location": "Northeast Mississippi",
+      "usgs_site_id": "07022500",
+      "normal_level_ft": 410.0,
+      "measurements": [
+        {
+          "date": "2026-06-04",
+          "level_ft": 410.33,
+          "deviation_ft": 0.33,
+          "status": "normal"
+        }
+      ]
+    }
+  ]
+}
